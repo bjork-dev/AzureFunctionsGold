@@ -7,7 +7,7 @@
                 "route": "/loaderio-4169888577687cd5095dd52699250146"
             },
             "responseOverrides": {
-                "response.body": "loaderio-your-token-goes-here",
+                "response.body": "loaderio-4169888577687cd5095dd52699250146",
                 "response.headers.Content-Type": "text/plain"
             }
         }
